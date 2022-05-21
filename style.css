@@ -18,7 +18,7 @@ padding: 1rem;
 display: block;
 margin-left: auto;
 margin-right: auto;
-height: 1750px;
+height: 1500px;
 }
 
 .content img {
@@ -51,18 +51,18 @@ background-color: #ebc23a;
 padding:.5rem;
 }
 
+a{
+color: #ffffff;
+}
+
+a:visited{
+color: #ffffff;
+}
+
 p {
 font-family: times, serif;
 font-size: 2rem;
 color: #e1d6eb;
 background-color: #6A329F;
 padding: 1rem;
-}
-
-p a{
-color: #ffffff;
-}
-
-p a:visited{
-color: #ffffff;
 }
